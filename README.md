@@ -83,7 +83,7 @@ Aquí documento proyectos y ejemplos para:
 
 ## 📫 Contacto
 
-- GitHub: [[github.com/el-teu-usuari](https://github.com/origabo/origabo)](https://github.com/)
+- GitHub: [https://github.com/origabo/origabo]
 - LinkedIn: [www.linkedin.com/in/origabo](#)
 
 ---
