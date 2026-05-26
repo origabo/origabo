@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1400x350.png?text=ORIOL+%7C+DATA+ANALYST+%26+DATA+SCIENCE" alt="Banner Oriol Data Analyst" width="100%">
+  <img src="assets/banner github.png" width="100%">
 </p>
 
 <h1 align="center">Hola, soy Oriol 👋</h1>
