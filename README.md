@@ -2,12 +2,6 @@
   <img src="assets/banner github.png" width="100%">
 </p>
 
-<h1 align="center">Hola, soy Oriol</h1>
-
-<p align="center">
-  <strong>Data Analyst • Data Science • Turning data into decisions</strong>
-</p>
-
 ---
 
 ## 🚀 Sobre mí
