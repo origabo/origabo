@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Data Analyst & Data Science** con experiencia en análisis de datos y resolución de problemas en entornos reales. Trabajo con datos para transformar información en decisiones accionables, creando análisis claros, dashboards y soluciones orientadas a negocio.
+Soy **Data Analyst & Data Science** con experiencia inicial en análisis de datos y resolución de problemas en entornos reales. Trabajo con datos para transformar información en decisiones accionables, creando análisis claros, dashboards y soluciones orientadas a negocio.
 
 Actualmente estoy en transición profesional hacia el mundo de **Data Analytics y Data Science**, combinando experiencia docente, pensamiento analítico y una mentalidad muy orientada a la mejora continua.
 
@@ -83,8 +83,8 @@ Aquí documento proyectos y ejemplos para:
 
 ## 📫 Contacto
 
-- GitHub: [github.com/el-teu-usuari](https://github.com/)
-- LinkedIn: [Tu LinkedIn](#)
+- GitHub: [[github.com/el-teu-usuari](https://github.com/origabo/origabo)](https://github.com/)
+- LinkedIn: [www.linkedin.com/in/origabo](#)
 
 ---
 
