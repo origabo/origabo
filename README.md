@@ -66,7 +66,7 @@ Aquí documento proyectos y ejemplos para:
 
 **Stack:** Python, Pandas, NumPy, Scikit-learn, SQL, MySQL, JSON, Power BI, Machine Learning, Data Cleaning, Data Visualization
 
-🔗 [Ver proyecto Jupiter](#)
+🔗 [Ver proyecto Jupiter](./Proyecto final de Máster)
 
 ---
 
