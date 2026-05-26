@@ -66,7 +66,7 @@ Aquí documento proyectos y ejemplos para:
 
 **Stack:** Python, Pandas, NumPy, Scikit-learn, SQL, MySQL, JSON, Power BI, Machine Learning, Data Cleaning, Data Visualization
 
-🔗 [Ver proyecto Jupiter](./Proyecto final de Máster)(https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/01.%20Master's%20final%20project)
+🔗 [Ver proyecto Jupiter](https://github.com/origabo/origabo/tree/main/Proyecto%20final%20de%20M%C3%A1ster)
 
 ---
 
